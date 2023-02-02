@@ -1,0 +1,15 @@
+D:\http-listener\bin\Debug\net7.0\http-listener.exe
+D:\http-listener\bin\Debug\net7.0\http-listener.deps.json
+D:\http-listener\bin\Debug\net7.0\http-listener.runtimeconfig.json
+D:\http-listener\bin\Debug\net7.0\http-listener.dll
+D:\http-listener\bin\Debug\net7.0\http-listener.pdb
+D:\http-listener\obj\Debug\net7.0\http-listener.csproj.AssemblyReference.cache
+D:\http-listener\obj\Debug\net7.0\http-listener.GeneratedMSBuildEditorConfig.editorconfig
+D:\http-listener\obj\Debug\net7.0\http-listener.AssemblyInfoInputs.cache
+D:\http-listener\obj\Debug\net7.0\http-listener.AssemblyInfo.cs
+D:\http-listener\obj\Debug\net7.0\http-listener.csproj.CoreCompileInputs.cache
+D:\http-listener\obj\Debug\net7.0\http-listener.dll
+D:\http-listener\obj\Debug\net7.0\refint\http-listener.dll
+D:\http-listener\obj\Debug\net7.0\http-listener.pdb
+D:\http-listener\obj\Debug\net7.0\http-listener.genruntimeconfig.cache
+D:\http-listener\obj\Debug\net7.0\ref\http-listener.dll
